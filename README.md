@@ -114,7 +114,7 @@ Aşağıda uygulamanın bazı ekran görünütülerini bulabilirsiniz:
 
 Below are some screenshots of the app:
 
-![SignUp Screen](./assets/images/signup.png)
+![SignUp Screen](./assets/images/sign_up.png)
 
 ![Login Screen](./assets/images/login.png)
 
